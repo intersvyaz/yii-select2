@@ -4,7 +4,7 @@ namespace Intersvyaz\Widgets;
 
 /**
  * Select2 widget.
- * @see http://ivaynberg.github.io/select2/
+ * @see https://github.com/ivaynberg/select2
  */
 class Select2 extends \CInputWidget
 {
